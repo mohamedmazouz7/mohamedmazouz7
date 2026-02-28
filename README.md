@@ -1,28 +1,8 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,40:0a1628,75:0d2040,100:00b4d8&height=260&section=header&text=MOHAMED%20MAZOUZ&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=◈%20DEVOPS%20%26%20CLOUD%20ENGINEER%20◈%201337%20%2F%2042%20NETWORK%20◈&descAlignY=62&descSize=15&animation=fadeIn&fontFamily=Courier%20New)](https://github.com/mohamedmazouz7)
+![header](https://raw.githubusercontent.com/mohamedmazouz7/mohamedmazouz7/main/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00B4D8&center=true&vCenter=true&repeat=true&width=750&height=48&lines=Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Container+Orchestration+with+Kubernetes+%F0%9F%90%B3;CI%2FCD+Pipeline+Architect+%F0%9F%9A%80;Linux+%26+Systems+Enthusiast+%F0%9F%90%A7;1337+School+%7C+42+Network+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://github.com/mohamedmazouz7)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗ ║
-║   ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗║
-║   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║║
-║   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║║
-║   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝║
-║   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ ║
-║                                                                  ║
-║   ▸ SCHOOL    1337 / 42 Network                                  ║
-║   ▸ CRAFT     C · C++ · Bash · Terraform · Docker · Kubernetes   ║
-║   ▸ DOMAINS   DevOps · Cloud · CI/CD · Monitoring · Linux        ║
-║   ▸ STATUS    [ ████████████████░░░░░░ ] ALWAYS BUILDING         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -30,17 +10,19 @@
 
 ## ⚡ About Me
 
-```bash
-$ whoami
-> Mohamed Mazouz — DevOps & Cloud Engineer
-
-$ cat /etc/profile
-> 🔧  Building reliable, scalable & automated infrastructure
-> 🐳  Containers, orchestration & pipelines are my playground
-> 🐧  Linux native — the terminal is home
-> 📚  Currently studying @ 1337 School / 42 Network
-> 🌊  Deploying on DigitalOcean | AWS coming next
-> 🤝  Open to DevOps & infrastructure collaborations
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   $ whoami                                                      │
+│   > Mohamed Mazouz — DevOps & Cloud Engineer                    │
+│                                                                 │
+│   ▸ SCHOOL    1337 / 42 Network                                 │
+│   ▸ CRAFT     C · C++ · Bash · Terraform · Docker · K8s         │
+│   ▸ CLOUD     DigitalOcean (Active) → AWS (Next)                │
+│   ▸ STACK     CI/CD · Monitoring · Linux · Nginx                │
+│   ▸ STATUS    [ ████████████░░░░░░ ] ALWAYS LEARNING            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -112,7 +94,7 @@ $ cat /etc/profile
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -127,14 +109,8 @@ $ cat /etc/profile
 
 <div align="center">
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0066ff,100:060910&height=130&section=footer)](https://github.com/mohamedmazouz7)
-
-</div>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedmazouz7&color=00b4d8&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
+&nbsp;
 ![Followers](https://img.shields.io/github/followers/mohamedmazouz7?color=00b4d8&style=flat-square&label=FOLLOWERS&labelColor=060910)
 
 </div>
