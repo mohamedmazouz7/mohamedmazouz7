@@ -1,12 +1,12 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B5,100:00D4FF&height=220&section=header&text=Mohamed%20Mazouz&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%201337%20%2F%2042%20Network&descAlignY=60&descSize=20" width="100%" />
 
-<!-- Animated gradient header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohamed%20Mazouz&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%201337%20%2F%2042%20Network&descAlignY=60&descSize=20" width="100%" />
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Container+Orchestration+%F0%9F%90%B3;CI%2FCD+Pipeline+Architect+%F0%9F%9A%80;Linux+%26+Systems+Enthusiast+%F0%9F%90%A7;1337+School+%7C+42+Network+Student;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<!-- 42 Level Badge -->
-<img src="https://badge.mediaplus.ma/darkblue/momazouz" alt="momazouz's 42 stats" />
+<br/>
+
+[![momazouz's 42 stats](https://badge.mediaplus.ma/darkblue/momazouz)](https://profile.intra.42.fr/users/momazouz)
 
 </div>
 
@@ -34,26 +34,36 @@ $ cat /etc/profile
 <div align="center">
 
 ### 🏗️ Infrastructure & Orchestration
-
-<img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,nginx&theme=dark" />
+<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" height="45" title="Terraform"/></a>
+<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="45" title="Kubernetes"/></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/></a>
+<a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" height="45" title="Nginx"/></a>
 
 ### 🔄 CI/CD & Automation
+<a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/></a>
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="45" title="GitHub Actions"/></a>
 
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions&theme=dark" />
+### 📊 Monitoring & Observability
+<a href="https://prometheus.io"><img src="https://skillicons.dev/icons?i=prometheus" height="45" title="Prometheus"/></a>
+<a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="32" title="Grafana"/></a>
+<a href="https://www.elastic.co"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="32" title="Elasticsearch"/></a>
 
 ### ☁️ Cloud & Hosting
-
-<img src="https://skillicons.dev/icons?i=digitalocean,aws&theme=dark" />
+<a href="https://www.digitalocean.com"><img src="https://skillicons.dev/icons?i=digitalocean" height="45" title="DigitalOcean"/></a>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="45" title="AWS (Coming Soon)"/></a>
 
 > 🔵 DigitalOcean — Active &nbsp;·&nbsp; 🔶 AWS — Coming Soon
 
 ### 💻 Languages & OS
-
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,linux&theme=dark" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" height="45" title="C"/></a>
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="45" title="Bash"/></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux"/></a>
 
 ### 🛠️ Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vim&theme=dark" />
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="45" title="Git"/></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/></a>
+<a href="https://www.vim.org"><img src="https://skillicons.dev/icons?i=vim" height="45" title="Vim"/></a>
 
 </div>
 
@@ -109,8 +119,7 @@ $ cat /etc/profile
 
 ---
 
-<!-- Animated footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0077B5,100:0D1117&height=120&section=footer" width="100%" />
 
 <div align="center">
 
