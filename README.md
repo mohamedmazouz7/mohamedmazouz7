@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B5,100:00D4FF&height=220&section=header&text=Mohamed%20Mazouz&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%201337%20%2F%2042%20Network&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0077B5,100:00D4FF&amp;height=220&amp;section=header&amp;text=Mohamed%20Mazouz&amp;fontSize=65&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=DevOps%20%26%20Cloud%20Engineer%20%7C%201337%20%2F%2042%20Network&amp;descAlignY=60&amp;descSize=20" width="100%" />
 
 <div align="center">
 
@@ -119,7 +119,7 @@ $ cat /etc/profile
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0077B5,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,50:0077B5,100:0D1117&amp;height=120&amp;section=footer" width="100%" />
 
 <div align="center">
 
