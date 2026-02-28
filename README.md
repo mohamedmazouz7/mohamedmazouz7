@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0077b6,100:00b4d8&height=220&section=header&text=Mohamed%20Mazouz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%201337%20%2F%2042%20Network&descAlignY=60&descSize=22&descColor=90e0ef)
+![header](https://capsule-render.vercel.app/api?type=waving%26color=0:0a0a0a,50:0077b6,100:00b4d8%26height=220%26section=header&text=Mohamed%20Mazouz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%201337%20%2F%2042%20Network&descAlignY=60&descSize=22&descColor=90e0ef)
 
 <div align="center">
 
