@@ -1,8 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving%26color=0:0a0a0a,50:0077b6,100:00b4d8%26height=220%26section=header%26text=Mohamed%20Mazouz%26fontSize=60%26fontColor=ffffff%26animation=fadeIn%26fontAlignY=38%26desc=DevOps%20%26%20Cloud%20Engineer%20%7C%201337%20%2F%2042%20Network%26descAlignY=60%26descSize=22%26descColor=90e0ef)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Container+Orchestration+with+Kubernetes+%F0%9F%90%B3;CI%2FCD+Pipeline+Architect+%F0%9F%9A%80;Linux+%26+Systems+Enthusiast+%F0%9F%90%A7;1337+School+%7C+42+Network+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=999999&color=00B4D8&center=true&vCenter=true&repeat=false&width=750&height=90&lines=Mohamed+Mazouz)](https://github.com/mohamedmazouz7)
+
+[![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=90E0EF&center=true&vCenter=true&repeat=false&width=620&height=35&lines=DevOps+%26+Cloud+Engineer+%7C+1337+%2F+42+Network)](https://github.com/mohamedmazouz7)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Container+Orchestration+with+Kubernetes+%F0%9F%90%B3;CI%2FCD+Pipeline+Architect+%F0%9F%9A%80;Linux+%26+Systems+Enthusiast+%F0%9F%90%A7;1337+School+%7C+42+Network+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/DevOps_Engineer-0D1117?style=for-the-badge&logo=linux&logoColor=00B4D8)
+![](https://img.shields.io/badge/1337_|_42_Network-0D1117?style=for-the-badge&logo=42&logoColor=white)
+![](https://img.shields.io/badge/DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 
 </div>
 
@@ -46,7 +56,7 @@ $ cat /etc/profile
 
 ### ☁️ Cloud & Hosting
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Soon-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 💻 Languages & OS
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -67,10 +77,10 @@ $ cat /etc/profile
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmazouz7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmazouz7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8&border_radius=10)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmazouz7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmazouz7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8&border_radius=10)](https://github.com/mohamedmazouz7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmazouz7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&border_radius=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmazouz7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7)
 
 </div>
 
@@ -103,9 +113,11 @@ $ cat /etc/profile
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0a0a0a&height=120&section=footer)
-
 <div align="center">
+
+![](https://img.shields.io/badge/──────────────────────────────────────-0D1117?style=for-the-badge)
+
+*"Automate Everything. Break Nothing. Ship Fast."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedmazouz7&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
 
