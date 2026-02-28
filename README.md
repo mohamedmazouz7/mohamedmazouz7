@@ -2,7 +2,7 @@
 
 [![name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=999999&color=00B4D8&center=true&vCenter=true&repeat=false&width=750&height=90&lines=Mohamed+Mazouz)](https://github.com/mohamedmazouz7)
 
-[![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=90E0EF&center=true&vCenter=true&repeat=false&width=620&height=35&lines=DevOps+%26+Cloud+Engineer+%7C+1337+%2F+42+Network)](https://github.com/mohamedmazouz7)
+[![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=90E0EF&center=true&vCenter=true&repeat=false&width=620&height=35&lines=Software+%26Engineering+%26+DevOps+%26+%7C+1337+%2F+42+Network)](https://github.com/mohamedmazouz7)
 
 <br/>
 
