@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/mohamedmazouz7/mohamedmazouz7/main/header.svg)
+![header](https://github.com/mohamedmazouz7/mohamedmazouz7/blob/main/main/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00B4D8&center=true&vCenter=true&repeat=true&width=750&height=48&lines=Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Container+Orchestration+with+Kubernetes+%F0%9F%90%B3;CI%2FCD+Pipeline+Architect+%F0%9F%9A%80;Linux+%26+Systems+Enthusiast+%F0%9F%90%A7;1337+School+%7C+42+Network+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://github.com/mohamedmazouz7)
 
