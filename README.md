@@ -1,17 +1,28 @@
 <div align="center">
 
-[![name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=1&pause=999999&color=00B4D8&center=true&vCenter=true&repeat=false&width=750&height=90&lines=Mohamed+Mazouz)](https://github.com/mohamedmazouz7)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,40:0a1628,75:0d2040,100:00b4d8&height=260&section=header&text=MOHAMED%20MAZOUZ&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=◈%20DEVOPS%20%26%20CLOUD%20ENGINEER%20◈%201337%20%2F%2042%20NETWORK%20◈&descAlignY=62&descSize=15&animation=fadeIn&fontFamily=Courier%20New)](https://github.com/mohamedmazouz7)
 
-[![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=90E0EF&center=true&vCenter=true&repeat=false&width=620&height=35&lines=DevOps+%26+Cloud+Engineer+%7C+1337+%2F+42+Network)](https://github.com/mohamedmazouz7)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Container+Orchestration+with+Kubernetes+%F0%9F%90%B3;CI%2FCD+Pipeline+Architect+%F0%9F%9A%80;Linux+%26+Systems+Enthusiast+%F0%9F%90%A7;1337+School+%7C+42+Network+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00B4D8&center=true&vCenter=true&repeat=true&width=750&height=48&lines=Infrastructure+as+Code+%E2%9A%99%EF%B8%8F;Container+Orchestration+with+Kubernetes+%F0%9F%90%B3;CI%2FCD+Pipeline+Architect+%F0%9F%9A%80;Linux+%26+Systems+Enthusiast+%F0%9F%90%A7;1337+School+%7C+42+Network+Student+%F0%9F%93%9A;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://github.com/mohamedmazouz7)
 
 <br/>
 
-![](https://img.shields.io/badge/DevOps_Engineer-0D1117?style=for-the-badge&logo=linux&logoColor=00B4D8)
-![](https://img.shields.io/badge/1337_|_42_Network-0D1117?style=for-the-badge&logo=42&logoColor=white)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗ ║
+║   ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗║
+║   ██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║║
+║   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║║
+║   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝║
+║   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ ║
+║                                                                  ║
+║   ▸ SCHOOL    1337 / 42 Network                                  ║
+║   ▸ CRAFT     C · C++ · Bash · Terraform · Docker · Kubernetes   ║
+║   ▸ DOMAINS   DevOps · Cloud · CI/CD · Monitoring · Linux        ║
+║   ▸ STATUS    [ ████████████████░░░░░░ ] ALWAYS BUILDING         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -76,10 +87,12 @@ $ cat /etc/profile
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmazouz7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmazouz7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8&border_radius=10)](https://github.com/mohamedmazouz7)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohamedmazouz7&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=060910&title_color=00b4d8&icon_color=00b4d8&text_color=a8c4dc&ring_color=00b4d8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmazouz7&layout=compact&langs_count=8&hide_border=true&bg_color=060910&title_color=00b4d8&text_color=a8c4dc" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmazouz7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7)
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedmazouz7&theme=dark&hide_border=true&background=060910&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=a8c4dc&dates=4a6480&currStreakNum=ffffff&sideNums=ffffff&stroke=0d2040)](https://github.com/mohamedmazouz7)
 
 </div>
 
@@ -89,11 +102,11 @@ $ cat /etc/profile
 
 <div align="center">
 
-[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/minishell)
-[![scripts](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/scripts)
+[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=minishell&theme=tokyonight&hide_border=true&bg_color=060910&title_color=00b4d8&icon_color=00b4d8&text_color=a8c4dc&border_radius=10)](https://github.com/mohamedmazouz7/minishell)
+[![scripts](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=scripts&theme=tokyonight&hide_border=true&bg_color=060910&title_color=00b4d8&icon_color=00b4d8&text_color=a8c4dc&border_radius=10)](https://github.com/mohamedmazouz7/scripts)
 
-[![42_EXAM](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=42_EXAM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/42_EXAM)
-[![Correction_page](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=Correction_page&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/Correction_page)
+[![42_EXAM](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=42_EXAM&theme=tokyonight&hide_border=true&bg_color=060910&title_color=00b4d8&icon_color=00b4d8&text_color=a8c4dc&border_radius=10)](https://github.com/mohamedmazouz7/42_EXAM)
+[![Correction_page](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=Correction_page&theme=tokyonight&hide_border=true&bg_color=060910&title_color=00b4d8&icon_color=00b4d8&text_color=a8c4dc&border_radius=10)](https://github.com/mohamedmazouz7/Correction_page)
 
 </div>
 
@@ -103,10 +116,10 @@ $ cat /etc/profile
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedmazouz7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedmazouz7)
-[![42 Network](https://img.shields.io/badge/42_Network-1337_School-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/momazouz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/◉%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedmazouz7)
+[![42 Network](https://img.shields.io/badge/◉%2042%20INTRA-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/momazouz)
+[![LinkedIn](https://img.shields.io/badge/◉%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/◉%20PORTFOLIO-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
@@ -114,10 +127,14 @@ $ cat /etc/profile
 
 <div align="center">
 
-![](https://img.shields.io/badge/──────────────────────────────────────-0D1117?style=for-the-badge)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0066ff,100:060910&height=130&section=footer)](https://github.com/mohamedmazouz7)
 
-*"Automate Everything. Break Nothing. Ship Fast."*
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedmazouz7&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedmazouz7&color=00b4d8&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/mohamedmazouz7?color=00b4d8&style=flat-square&label=FOLLOWERS&labelColor=060910)
 
 </div>
