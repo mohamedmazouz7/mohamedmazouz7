@@ -12,7 +12,6 @@
 
 ![](https://img.shields.io/badge/DevOps_Engineer-0D1117?style=for-the-badge&logo=linux&logoColor=00B4D8)
 ![](https://img.shields.io/badge/1337_|_42_Network-0D1117?style=for-the-badge&logo=42&logoColor=white)
-![](https://img.shields.io/badge/DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 
 </div>
 
