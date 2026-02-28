@@ -1,0 +1,68 @@
+<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#060910"/>
+      <stop offset="45%" style="stop-color:#0a1628"/>
+      <stop offset="80%" style="stop-color:#0d2040"/>
+      <stop offset="100%" style="stop-color:#00b4d8"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="60%" style="stop-color:#90e0ef"/>
+      <stop offset="100%" style="stop-color:#00b4d8"/>
+    </linearGradient>
+    <!-- Wave path at bottom -->
+    <clipPath id="wave-clip">
+      <rect width="900" height="250"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="250" fill="url(#bg)"/>
+
+  <!-- Decorative grid lines -->
+  <g stroke="#0d2040" stroke-width="1" opacity="0.4">
+    <line x1="0" y1="50" x2="900" y2="50"/>
+    <line x1="0" y1="100" x2="900" y2="100"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="150" y1="0" x2="150" y2="250"/>
+    <line x1="300" y1="0" x2="300" y2="250"/>
+    <line x1="450" y1="0" x2="450" y2="250"/>
+    <line x1="600" y1="0" x2="600" y2="250"/>
+    <line x1="750" y1="0" x2="750" y2="250"/>
+  </g>
+
+  <!-- Glow circle behind name -->
+  <ellipse cx="450" cy="110" rx="300" ry="80" fill="#00b4d8" opacity="0.07"/>
+
+  <!-- Wave shape at bottom -->
+  <path d="M0,200 C150,170 300,230 450,200 C600,170 750,230 900,200 L900,250 L0,250 Z" fill="#060910" opacity="0.6"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#textGrad)"/>
+
+  <!-- Corner decorations -->
+  <text x="18" y="28" font-family="Courier New" font-size="13" fill="#00b4d8" opacity="0.7">[ SYS ]</text>
+  <text x="760" y="28" font-family="Courier New" font-size="13" fill="#00b4d8" opacity="0.7">[ DEVOPS ]</text>
+
+  <!-- Main name -->
+  <text x="450" y="115"
+    font-family="Courier New, monospace"
+    font-size="62"
+    font-weight="bold"
+    fill="url(#textGrad)"
+    text-anchor="middle"
+    letter-spacing="6">MOHAMED MAZOUZ</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="155"
+    font-family="Courier New, monospace"
+    font-size="15"
+    fill="#90e0ef"
+    text-anchor="middle"
+    letter-spacing="3">◈  DEVOPS &amp; CLOUD ENGINEER  ◈  1337 / 42 NETWORK  ◈</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="247" width="900" height="3" fill="url(#textGrad)"/>
+</svg>
