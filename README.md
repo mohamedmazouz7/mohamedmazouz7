@@ -17,7 +17,12 @@
 
 ---
 
-## ⚡ About Me
+<div align="center">
+
+### ⚡ About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=2&width=50%25" />
+
+</div>
 
 ```bash
 $ whoami
@@ -32,47 +37,50 @@ $ cat /etc/profile
 > 🤝  Open to DevOps & infrastructure collaborations
 ```
 
----
 
-## 🛠️ Tech Stack & Tools
+---
 
 <div align="center">
 
-### 🏗️ Infrastructure & Orchestration
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🔄 CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### ☁️ Cloud & Hosting
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Soon-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 💻 Languages & OS
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+### TECH STACK
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=2&width=50%25" />
 
 </div>
 
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK_Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+
+### STATS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=2&width=50%25" />
+
+</div>
 
 <div align="center">
 
@@ -83,30 +91,47 @@ $ cat /etc/profile
 
 </div>
 
----
 
-## 🚀 Featured Projects
+---
 
 <div align="center">
 
-[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/minishell)
-[![scripts](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/scripts)
-
-[![42_EXAM](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=42_EXAM&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/42_EXAM)
-[![Correction_page](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=Correction_page&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/Correction_page)
+### PROJECTS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=2&width=50%25" />
 
 </div>
 
+<div align="center">
+
+[![ft_transcendence](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=ft_transcendence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/ft_transcendence)
+[![inception](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=inception&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/inception)
+
+[![webserv](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=webserv&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/webserv)
+[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/minishell)
+
+[![philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=philosophers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/philosophers)
+[![push_swap](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=push_swap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/push_swap)
+
+[![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=cub3D&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/cub3D)
+[![so_long](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=so_long&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/so_long)
+
+</div>
+
+
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+
+### CONNECT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8&height=2&width=50%25" />
+
+</div>
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohamedmazouz7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedmazouz7)
-[![42 Network](https://img.shields.io/badge/42_Network-1337_School-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/momazouz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Mazouz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazouz-mohamed/)
+[![42 Network](https://img.shields.io/badge/42_Network-momazouz-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/momazouz)
 
 </div>
 
@@ -118,6 +143,6 @@ $ cat /etc/profile
 
 *"Automate Everything. Break Nothing. Ship Fast."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedmazouz7&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarun.com/ghpvc/?username=mohamedmazouz7&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
