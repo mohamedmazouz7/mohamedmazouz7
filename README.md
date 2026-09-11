@@ -33,7 +33,7 @@ $ cat /etc/profile
 > 🐳  Containers, orchestration & pipelines are my playground
 > 🐧  Linux native — the terminal is home
 > 📚  Currently studying @ 1337 School / 42 Network
-> 🌊  Deploying on DigitalOcean | AWS coming next
+> 🌊  Deploying on DigitalOcean & AWS cloud 
 > 🤝  Open to DevOps & infrastructure collaborations
 ```
 
@@ -103,17 +103,88 @@ $ cat /etc/profile
 
 <div align="center">
 
-[![ft_transcendence](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=ft_transcendence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/ft_transcendence)
-[![inception](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=inception&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/inception)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![webserv](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=webserv&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/webserv)
-[![minishell](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/minishell)
+### 🚀 &nbsp;ft_transcendence
+Real-time multiplayer platform, deployed in production  
+Containerized microservices · CI/CD · Prometheus/Grafana . ELK stack . Alerting . Disaster recovery . DigitalOcean Cloud
 
-[![philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=philosophers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/philosophers)
-[![push_swap](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=push_swap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/push_swap)
+[![LIVE @ netpong.games](https://img.shields.io/badge/◉%20LIVE%20@%20netpong.games-00B4D8?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/mohamedmazouz7/ft_transcendence)
 
-[![cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=cub3D&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/cub3D)
-[![so_long](https://github-readme-stats.vercel.app/api/pin/?username=mohamedmazouz7&repo=so_long&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&border_radius=10)](https://github.com/mohamedmazouz7/so_long)
+</td>
+<td width="50%" valign="top">
+
+### 🐳 &nbsp;inception
+Docker Compose infra · Nginx TLS/SSL  
+MariaDB volumes · WordPress · bridge networks
+
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-90E0EF?style=for-the-badge&logo=docker&logoColor=black)](https://github.com/mohamedmazouz7/inception)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 &nbsp;webserv
+HTTP/1.1 server from raw POSIX sockets · C++  
+poll() · CGI · GET/POST/DELETE · chunked encoding
+
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-90E0EF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohamedmazouz7/webserv)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐚 &nbsp;minishell
+POSIX shell from scratch · pipes · heredocs  
+signal handling · env expansion · builtins
+
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-90E0EF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohamedmazouz7/minishell)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍝 &nbsp;philosophers
+Dining philosophers · pthreads · mutexes  
+deadlock-free · starvation-free · zero races
+
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-90E0EF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohamedmazouz7/philosophers)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔀 &nbsp;push_swap
+Sort with 2 stacks · O(n log n)  
+step-by-step visualizer
+
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-90E0EF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohamedmazouz7/push_swap)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏰 &nbsp;cub3D
+Wolfenstein-style raycaster · C · DDA algorithm  
+textures · minimap · smooth camera movement
+
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-90E0EF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohamedmazouz7/cub3D)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕹 &nbsp;so_long
+2D tile game · MinilibX · C  
+map parser · sprite rendering · game loop
+
+[![SOURCE](https://img.shields.io/badge/◉%20SOURCE%20CODE-90E0EF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohamedmazouz7/so_long)
+
+</td>
+</tr>
+</table>
 
 </div>
 
